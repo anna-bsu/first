@@ -1,4 +1,4 @@
-module.exports = '../index.js';
+module.exports = '../task4,5/index.js';
 let const autocomplete = function createAutoComplete(words){
 	return function (word){
 		      if( word === '' || null || undefined) {
