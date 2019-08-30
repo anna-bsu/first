@@ -1,8 +1,6 @@
 function chunck(array, size){
     size = size || 1;
-    const result = [];
-   // result.length = Math.round(array.length/size);
-
+    const RESULT = [];
     let i = 0;
     let k = 0;
     while (i < array.length){
@@ -10,47 +8,43 @@ function chunck(array, size){
         for (let j = 0; j < size && ((i+j) < array.length); j++){
             tmp[j] = array[i+j];
         }
-        result[k++] = tmp;
+        RESULT[k++] = tmp;
         i += size;
     }
-    return result;
+    return RESULT;
 }
 
 function compact(array){
-    let result = [];
+    const RESULT = [];
     let k =0;
     for(let i = 0; i < array.length; i++){
         if (array[i] != false && !isNaN(array[i])  && array[i] !== null){
-        result[k++]= array[i];
+        RESULT[k++]= array[i];
         }
     }
-    return result;
+    return RESULT;
 }
 
 function drop(array, n){
-    if (n === undefined){
-        n = 1;
-    }
-    let result = [];
+    n = n || 1;
+    const RESULT = [];
     for (let i = n; i < array.length;i++){
-        result[i - n] = array[i];
+        RESULT[i - n] = array[i];
     }
-    return result;
+    return RESULT;
 }
 
 function take(array, n){
-    if (n === undefined){
-        n = 1;
-    }
-    let result = [];
+    n = n || 1;
+    const RESULT = [];
     if(n <= array.length) {
         for (let i = 0; i < n ; i++) {
-            result[i] = array[i];
+            RESULT[i] = array[i];
         }
     }
-    return result;
+    return RESULT;
 }
-//console.log(drop([ 1 ,  2 ,  3 ], 2 ));
+
 
 function dropWhile(array, predicate) {
     let index = -1;
@@ -60,14 +54,14 @@ function dropWhile(array, predicate) {
 }
 
 function filter(array, predicate){
-    let result = [];
+    const RESULT = [];
     let k = 0;
     for(let i = 0; i < array.length; i++){
         if (predicate(array[i], i, array)){
-            result[k++] = array[i];
+            RESULT[k++] = array[i];
         }
     }
-    return result;
+    return RESULT;
 }
 
 function find(array, predicate, fromIndex){
@@ -116,29 +110,71 @@ function includes(array, value, fromIndex){
 }
 
 function map(array, iteratee) {
-    let result = [];
-    result.length = (array == null) ? 0 : array.length;
+    const RESULT = [];
+    RESULT.length = (array == null) ? 0 : array.length;
 
     for(let i = 0; i < array.length; i++){
-        result[i] = iteratee(array[i], i, array);
+        RESULT[i] = iteratee(array[i], i, array);
     }
-    return result;
+    return RESULT;
 }
 
 function zip(...arrays){
-    let result = [];
-    result.length = arrays[0].length;
+    const RESULT = [];
+    RESULT.length = arrays[0].length;
     let currentArray = [];
     let k ;
-    for(let i = 0; i < result.length; i++){
+    for(let i = 0; i < RESULT.length; i++){
         k = 0;
         for (let array of arrays){
             currentArray[k++] = array[i];
         }
-        result[i] =  currentArray;
+        RESULT[i] =  currentArray;
         currentArray = [];
     }
-    return result;
+    return RESULT;
 }
 
-console.log(chunck([undefined, null, -1, undefined], 2));
+
+function pick(object, paths){
+   const OBJ = {};
+   for(let item of paths){
+       OBJ[item] = object[item];
+       }
+   return OBJ;
+}
+
+function pickBy(object, predicate){
+    const OBJ = {};
+    for(let key in object){
+        if(predicate(object[key], key)){
+            OBJ[key] = object[key];
+        }
+    }
+    return OBJ;
+}
+function omit(object, paths){
+    const OBJ = {}; let isExist;
+    for(let key in object){
+        isExist = false;
+        for( let item of paths){
+            if (key === item){
+                isExist = true;
+                break;
+            }
+        }
+        if(!isExist) {
+            OBJ[key] = object[key];
+        }
+    }
+    return OBJ;
+}
+function omitBy(object, predicate){
+    const OBJ = {};
+    for(let key in object){
+       if(!predicate(object[key], key)){
+            OBJ[key] = object[key];
+        }
+    }
+    return OBJ;
+}
