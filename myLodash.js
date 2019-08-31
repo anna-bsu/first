@@ -1,6 +1,6 @@
-function chunck(array, size){
+function chunk(array, size){
     size = size || 1;
-    const RESULT = [];
+    const  result= [];
     let i = 0;
     let k = 0;
     while (i < array.length){
@@ -8,41 +8,46 @@ function chunck(array, size){
         for (let j = 0; j < size && ((i+j) < array.length); j++){
             tmp[j] = array[i+j];
         }
-        RESULT[k++] = tmp;
+        result[k++] = tmp;
         i += size;
     }
-    return RESULT;
+    return result;
 }
 
-function compact(array){
-    const RESULT = [];
+ function compact(array){
+    const result = [];
     let k =0;
     for(let i = 0; i < array.length; i++){
         if (array[i] != false && !isNaN(array[i])  && array[i] !== null){
-        RESULT[k++]= array[i];
+        result[k++]= array[i];
         }
     }
-    return RESULT;
+    return result;
 }
 
 function drop(array, n){
+    if(n <= 0) return array;
     n = n || 1;
-    const RESULT = [];
+    const result = [];
     for (let i = n; i < array.length;i++){
-        RESULT[i - n] = array[i];
+        result[i - n] = array[i];
     }
-    return RESULT;
+    return result;
 }
 
 function take(array, n){
-    n = n || 1;
-    const RESULT = [];
-    if(n <= array.length) {
-        for (let i = 0; i < n ; i++) {
-            RESULT[i] = array[i];
-        }
+    if(n >= array.length || n === 0) {
+        return array;
     }
-    return RESULT;
+    if (n != null ){
+        n = n || 1;
+    }
+
+    const result = [];
+    for (let i = 0; i < n ; i++) {
+        result[i] = array[i];
+    }
+    return result;
 }
 
 
@@ -54,14 +59,14 @@ function dropWhile(array, predicate) {
 }
 
 function filter(array, predicate){
-    const RESULT = [];
+    const result = [];
     let k = 0;
     for(let i = 0; i < array.length; i++){
         if (predicate(array[i], i, array)){
-            RESULT[k++] = array[i];
+            result[k++] = array[i];
         }
     }
-    return RESULT;
+    return result;
 }
 
 function find(array, predicate, fromIndex){
@@ -110,51 +115,54 @@ function includes(array, value, fromIndex){
 }
 
 function map(array, iteratee) {
-    const RESULT = [];
-    RESULT.length = (array == null) ? 0 : array.length;
+    const result = [];
+    result.length = (array == null) ? 0 : array.length;
 
     for(let i = 0; i < array.length; i++){
-        RESULT[i] = iteratee(array[i], i, array);
+        result[i] = iteratee(array[i], i, array);
     }
-    return RESULT;
+    return result;
 }
 
 function zip(...arrays){
-    const RESULT = [];
-    RESULT.length = arrays[0].length;
+    const result = [];
+    result.length = arrays[0].length;
     let currentArray = [];
     let k ;
-    for(let i = 0; i < RESULT.length; i++){
+    for(let i = 0; i < result.length; i++){
         k = 0;
         for (let array of arrays){
             currentArray[k++] = array[i];
         }
-        RESULT[i] =  currentArray;
+        result[i] =  currentArray;
         currentArray = [];
     }
-    return RESULT;
+    return result;
 }
 
 
 function pick(object, paths){
-   const OBJ = {};
+   const obj = {};
    for(let item of paths){
-       OBJ[item] = object[item];
+       obj[item] = object[item];
        }
-   return OBJ;
+   return obj;
 }
 
 function pickBy(object, predicate){
-    const OBJ = {};
+    const obj = {};
+    if (object == null) {
+        return {};
+    }
     for(let key in object){
         if(predicate(object[key], key)){
-            OBJ[key] = object[key];
+            obj[key] = object[key];
         }
     }
-    return OBJ;
+    return obj;
 }
 function omit(object, paths){
-    const OBJ = {}; let isExist;
+    const obj = {}; let isExist;
     for(let key in object){
         isExist = false;
         for( let item of paths){
@@ -164,17 +172,33 @@ function omit(object, paths){
             }
         }
         if(!isExist) {
-            OBJ[key] = object[key];
+            obj[key] = object[key];
         }
     }
-    return OBJ;
+    return obj;
 }
 function omitBy(object, predicate){
-    const OBJ = {};
+    const obj = {};
     for(let key in object){
-       if(!predicate(object[key], key)){
-            OBJ[key] = object[key];
+       if(!predicate(object[key], key) && object[key] != null){
+            obj[key] = object[key];
         }
     }
-    return OBJ;
+    return obj;
 }
+module.exports =  {
+    chunk,
+    map,
+    includes,
+    compact,
+    drop,
+    dropWhile,
+    take,
+    filter,
+    find,
+    zip,
+    pick,
+    pickBy,
+    omit,
+    omitBy
+};
