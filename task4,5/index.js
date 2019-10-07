@@ -6,6 +6,7 @@ function createAutoComplete(words){
               return words.filter(item => item.toLowerCase().indexOf(word.toLowerCase(word)) === 0);
 	        }
 }
-module.exports = {
+export default createAutoComplete;/*module.exports = {
 createAutoComplete,
 };
+*/
