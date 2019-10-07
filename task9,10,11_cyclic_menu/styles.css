@@ -1,0 +1,14 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+span {
+    margin: 20px;
+}
+
+.selected {
+    border-bottom: solid 2px deepskyblue;
+    color: deepskyblue;
+    font: bold italic 110% serif;
+}
