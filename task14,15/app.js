@@ -1,4 +1,5 @@
 
+const process = require('process');
 const fs = require('fs');
 const path = require('path');
 process.env.NODE_TLS_REJECT_UNAUTHORIZED = '0';
@@ -6,7 +7,7 @@ process.env.NODE_TLS_REJECT_UNAUTHORIZED = '0';
 const fileInputName = process.argv.slice(2)[0].toString();
 const fileOutputName = process.argv.slice(2)[1].toString();
 
-const pathToRead = path.join(__dirname,fileInputName);
+const pathTo Read = path.join(__dirname,fileInputName);
 const pathToWrite = path.join(__dirname,fileOutputName);
 
 const fileIn = fs.readFileSync(pathToRead, 'utf-8');
