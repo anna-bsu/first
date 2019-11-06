@@ -11,7 +11,6 @@ const pathToWrite = path.join(__dirname,fileOutputName);
 
 const fileIn = fs.readFileSync(pathToRead, 'utf-8');
 const urls = fileIn.toString().split(/\r\n|\n| /);
-//urls.splice(0, 1);
 
 const https = require('https');
 const responses = urls.map(url => {
@@ -30,7 +29,7 @@ Promise.all(responses)
     .then( response =>{
     console.log("Request finished");
     fs.appendFileSync(pathToWrite, "[LOG]Request finished\n");
-    console.log(response.statusCode);
+    //console.log(response.statusCode);
     })
     .catch(error =>{
         console.log("Request finished with error" + error);
