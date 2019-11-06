@@ -1,0 +1,557 @@
+[LOG]Wed Nov 06 2019 17:06:13 GMT+0300 (Москва, стандартное время)
+ Sending request to http://www.semkelaw.com 
+Request finished with statusCode - 403
+
+[LOG]Wed Nov 06 2019 17:06:13 GMT+0300 (Москва, стандартное время)
+ Sending request to http://www.timhayeslaw.com 
+Request finished with statusCode - 403
+
+[LOG]Wed Nov 06 2019 17:06:13 GMT+0300 (Москва, стандартное время)
+ Sending request to http://www.taylorlawfirmok.com 
+Request finished with statusCode - 403
+
+[LOG]Wed Nov 06 2019 17:06:13 GMT+0300 (Москва, стандартное время)
+ Sending request to http://www.harrisandliterski.com 
+Request finished with statusCode - 403
+
+[LOG]Wed Nov 06 2019 17:06:13 GMT+0300 (Москва, стандартное время)
+ Sending request to http://www.amacdonaldlaw.com 
+Request finished with statusCode - 403
+
+[LOG]Wed Nov 06 2019 17:06:13 GMT+0300 (Москва, стандартное время)
+ Sending request to http://www.mcadamslawoffice.com 
+Request finished with statusCode - 403
+
+[LOG]Wed Nov 06 2019 17:06:13 GMT+0300 (Москва, стандартное время)
+ Sending request to http://www.bankruptcymichaelkoch.com 
+Request finished with statusCode - 403
+
+[LOG]Wed Nov 06 2019 17:06:13 GMT+0300 (Москва, стандартное время)
+ Sending request to http://www.cwolklaw.com 
+Request finished with statusCode - 403
+
+[LOG]Wed Nov 06 2019 17:06:13 GMT+0300 (Москва, стандартное время)
+ Sending request to http://www.garciapa.com 
+Request finished with statusCode - 403
+
+[LOG]Wed Nov 06 2019 17:06:13 GMT+0300 (Москва, стандартное время)
+ Sending request to http://www.mjblegal.com 
+Request finished with statusCode - 403
+
+[LOG]Wed Nov 06 2019 17:06:13 GMT+0300 (Москва, стандартное время)
+ Sending request to http://www.marinotaxlaw.com 
+Request finished with statusCode - 403
+
+[LOG]Wed Nov 06 2019 17:06:13 GMT+0300 (Москва, стандартное время)
+ Sending request to http://www.morrisplayer.com 
+Request finished with statusCode - 403
+
+[LOG]Wed Nov 06 2019 17:06:13 GMT+0300 (Москва, стандартное время)
+ Sending request to http://www.pasconsumerlaw.com 
+Request finished with statusCode - 403
+
+[LOG]Wed Nov 06 2019 17:06:13 GMT+0300 (Москва, стандартное время)
+ Sending request to http://www.elgrppc.com 
+Request finished with statusCode - 403
+
+[LOG]Wed Nov 06 2019 17:06:13 GMT+0300 (Москва, стандартное время)
+ Sending request to http://www.vanvalkenburglaw.com 
+Request finished with statusCode - 403
+
+[LOG]Wed Nov 06 2019 17:06:13 GMT+0300 (Москва, стандартное время)
+ Sending request to http://www.christieleelegal.com 
+Request finished with statusCode - 403
+
+[LOG]Wed Nov 06 2019 17:06:13 GMT+0300 (Москва, стандартное время)
+ Sending request to http://www.dcblaw.com 
+Request finished with statusCode - 403
+
+[LOG]Wed Nov 06 2019 17:06:13 GMT+0300 (Москва, стандартное время)
+ Sending request to http://www.tompyleslaw.com 
+Request finished with statusCode - 403
+
+[LOG]Wed Nov 06 2019 17:06:13 GMT+0300 (Москва, стандартное время)
+ Sending request to http://www.tgalaw.com 
+Request finished with statusCode - 403
+
+[LOG]Wed Nov 06 2019 17:06:13 GMT+0300 (Москва, стандартное время)
+ Sending request to http://www.scottsdalecustodyattorney.com 
+Request finished with statusCode - 403
+
+[LOG]Wed Nov 06 2019 17:06:13 GMT+0300 (Москва, стандартное время)
+ Sending request to http://www.ptlawkc.com 
+Request finished with statusCode - 403
+
+[LOG]Wed Nov 06 2019 17:06:13 GMT+0300 (Москва, стандартное время)
+ Sending request to http://www.attorneywalt.com 
+Request finished with statusCode - 403
+
+[LOG]Wed Nov 06 2019 17:06:13 GMT+0300 (Москва, стандартное время)
+ Sending request to http://www.mengesfirm.com 
+Request finished with statusCode - 403
+
+[LOG]Wed Nov 06 2019 17:06:13 GMT+0300 (Москва, стандартное время)
+ Sending request to http://www.brannoncanhelp.com 
+Request finished with statusCode - 403
+
+[LOG]Wed Nov 06 2019 17:06:13 GMT+0300 (Москва, стандартное время)
+ Sending request to http://www.pulversthompson.com 
+Request finished with statusCode - 403
+
+[LOG]Wed Nov 06 2019 17:06:13 GMT+0300 (Москва, стандартное время)
+ Sending request to http://www.mayerrosenberg.com 
+Request finished with statusCode - 403
+
+[LOG]Wed Nov 06 2019 17:06:13 GMT+0300 (Москва, стандартное время)
+ Sending request to http://www.peircelaw.com 
+Request finished with statusCode - 403
+
+[LOG]Wed Nov 06 2019 17:06:13 GMT+0300 (Москва, стандартное время)
+ Sending request to http://www.sbrownlawyer.com 
+Request finished with statusCode - 403
+
+[LOG]Wed Nov 06 2019 17:06:13 GMT+0300 (Москва, стандартное время)
+ Sending request to http://www.johnadamschristiansenlawoffice.com 
+Request finished with statusCode - 403
+
+[LOG]Wed Nov 06 2019 17:06:13 GMT+0300 (Москва, стандартное время)
+ Sending request to http://www.greene-broillet.com 
+Request finished with statusCode - 403
+
+[LOG]Wed Nov 06 2019 17:06:13 GMT+0300 (Москва, стандартное время)
+ Sending request to http://www.nlsbankruptcy.com 
+Request finished with statusCode - 403
+
+[LOG]Wed Nov 06 2019 17:06:13 GMT+0300 (Москва, стандартное время)
+ Sending request to http://www.thestidhamlawfirm.com 
+Request finished with statusCode - 403
+
+[LOG]Wed Nov 06 2019 17:06:13 GMT+0300 (Москва, стандартное время)
+ Sending request to http://www.youngconawayinjurylawyers.com 
+Request finished with statusCode - 403
+
+[LOG]Wed Nov 06 2019 17:06:13 GMT+0300 (Москва, стандартное время)
+ Sending request to http://www.joshfinklaw.com 
+Request finished with statusCode - 403
+
+[LOG]Wed Nov 06 2019 17:06:13 GMT+0300 (Москва, стандартное время)
+ Sending request to http://www.brucezivley.com 
+Request finished with statusCode - 403
+
+[LOG]Wed Nov 06 2019 17:06:13 GMT+0300 (Москва, стандартное время)
+ Sending request to http://www.depintolaw.com 
+Request finished with statusCode - 403
+
+[LOG]Wed Nov 06 2019 17:06:13 GMT+0300 (Москва, стандартное время)
+ Sending request to http://www.bjensenlaw.com 
+Request finished with statusCode - 403
+
+[LOG]Wed Nov 06 2019 17:06:13 GMT+0300 (Москва, стандартное время)
+ Sending request to http://www.unfairtermination.com 
+Request finished with statusCode - 403
+
+[LOG]Wed Nov 06 2019 17:06:13 GMT+0300 (Москва, стандартное время)
+ Sending request to http://www.harrisandliterski.com 
+Request finished with statusCode - 403
+
+[LOG]Wed Nov 06 2019 17:06:13 GMT+0300 (Москва, стандартное время)
+ Sending request to http://www.bryanthigby.com 
+Request finished with statusCode - 403
+
+[LOG]Wed Nov 06 2019 17:06:13 GMT+0300 (Москва, стандартное время)
+ Sending request to http://www.cutterlaw.com 
+Request finished with statusCode - 403
+
+[LOG]Wed Nov 06 2019 17:06:13 GMT+0300 (Москва, стандартное время)
+ Sending request to http://www.carbylawfirm.com 
+Request finished with statusCode - 403
+
+[LOG]Wed Nov 06 2019 17:06:13 GMT+0300 (Москва, стандартное время)
+ Sending request to http://www.goldsmithlegal.com 
+Request finished with statusCode - 403
+
+[LOG]Wed Nov 06 2019 17:06:13 GMT+0300 (Москва, стандартное время)
+ Sending request to http://www.milavetzlaw.com 
+Request finished with statusCode - 403
+
+[LOG]Wed Nov 06 2019 17:06:13 GMT+0300 (Москва, стандартное время)
+ Sending request to http://www.kathleenwallacelaw.com 
+Request finished with statusCode - 403
+
+[LOG]Wed Nov 06 2019 17:06:13 GMT+0300 (Москва, стандартное время)
+ Sending request to http://www.girardikeese.com 
+Request finished with statusCode - 403
+
+[LOG]Wed Nov 06 2019 17:06:13 GMT+0300 (Москва, стандартное время)
+ Sending request to http://www.jfairchildlaw.com 
+Request finished with statusCode - 400
+
+[LOG]Wed Nov 06 2019 17:06:13 GMT+0300 (Москва, стандартное время)
+ Sending request to http://www.krisgreenwood.com 
+Request finished with statusCode - 403
+
+[LOG]Wed Nov 06 2019 17:06:13 GMT+0300 (Москва, стандартное время)
+ Sending request to http://www.aabyfamilylaw.com 
+Request finished with statusCode - 403
+
+[LOG]Wed Nov 06 2019 17:06:13 GMT+0300 (Москва, стандартное время)
+ Sending request to http://www.scslawyer.com 
+Request finished with statusCode - 403
+
+[LOG]Wed Nov 06 2019 17:06:13 GMT+0300 (Москва, стандартное время)
+ Sending request to http://www.leesebergvalentine.com 
+Request finished with statusCode - 403
+
+[LOG]Wed Nov 06 2019 17:06:13 GMT+0300 (Москва, стандартное время)
+ Sending request to http://www.summersfirm.com 
+Request finished with statusCode - 403
+
+[LOG]Wed Nov 06 2019 17:06:13 GMT+0300 (Москва, стандартное время)
+ Sending request to http://www.lawyerschwartz.com 
+Request finished with statusCode - 403
+
+[LOG]Wed Nov 06 2019 17:06:13 GMT+0300 (Москва, стандартное время)
+ Sending request to http://www.dgattorneys.com 
+Request finished with statusCode - 403
+
+[LOG]Wed Nov 06 2019 17:06:13 GMT+0300 (Москва, стандартное время)
+ Sending request to http://www.coateslaw.com 
+Request finished with statusCode - 403
+
+[LOG]Wed Nov 06 2019 17:06:13 GMT+0300 (Москва, стандартное время)
+ Sending request to http://www.travisnoble.com 
+Request finished with statusCode - 403
+
+[LOG]Wed Nov 06 2019 17:06:13 GMT+0300 (Москва, стандартное время)
+ Sending request to http://www.sfmslaw.com 
+Request finished with statusCode - 403
+
+[LOG]Wed Nov 06 2019 17:06:13 GMT+0300 (Москва, стандартное время)
+ Sending request to http://www.aaronlawyer.com 
+Request finished with statusCode - 403
+
+[LOG]Wed Nov 06 2019 17:06:13 GMT+0300 (Москва, стандартное время)
+ Sending request to http://www.birdandvandyke.net 
+Request finished with statusCode - 403
+
+[LOG]Wed Nov 06 2019 17:06:13 GMT+0300 (Москва, стандартное время)
+ Sending request to http://www.rheadorsamlaw.com 
+Request finished with statusCode - 403
+
+[LOG]Wed Nov 06 2019 17:06:13 GMT+0300 (Москва, стандартное время)
+ Sending request to http://www.koskoff.com 
+Request finished with statusCode - 403
+
+[LOG]Wed Nov 06 2019 17:06:13 GMT+0300 (Москва, стандартное время)
+ Sending request to http://www.browntax.com 
+Request finished with statusCode - 403
+
+[LOG]Wed Nov 06 2019 17:06:13 GMT+0300 (Москва, стандартное время)
+ Sending request to http://www.ltylerlaw.com 
+Request finished with statusCode - 403
+
+[LOG]Wed Nov 06 2019 17:06:13 GMT+0300 (Москва, стандартное время)
+ Sending request to http://www.hartlawofficepc.com 
+Request finished with statusCode - 403
+
+[LOG]Wed Nov 06 2019 17:06:13 GMT+0300 (Москва, стандартное время)
+ Sending request to http://www.usmesotheliomalaw.com 
+Request finished with statusCode - 403
+
+[LOG]Wed Nov 06 2019 17:06:13 GMT+0300 (Москва, стандартное время)
+ Sending request to http://www.stephentholman.com 
+Request finished with statusCode - 403
+
+[LOG]Wed Nov 06 2019 17:06:13 GMT+0300 (Москва, стандартное время)
+ Sending request to http://www.wbymlaw.com 
+Request finished with statusCode - 403
+
+[LOG]Wed Nov 06 2019 17:06:13 GMT+0300 (Москва, стандартное время)
+ Sending request to http://www.lorengreenlaw.com 
+Request finished with statusCode - 400
+
+[LOG]Wed Nov 06 2019 17:06:13 GMT+0300 (Москва, стандартное время)
+ Sending request to http://www.lnhlaw.com 
+Request finished with statusCode - 400
+
+[LOG]Wed Nov 06 2019 17:06:13 GMT+0300 (Москва, стандартное время)
+ Sending request to http://www.paulidlasbankruptcy.com 
+Request finished with statusCode - 400
+
+[LOG]Wed Nov 06 2019 17:06:13 GMT+0300 (Москва, стандартное время)
+ Sending request to http://www.goldapp-rodriguez.com 
+Request finished with statusCode - 400
+
+[LOG]Wed Nov 06 2019 17:06:13 GMT+0300 (Москва, стандартное время)
+ Sending request to http://www.georgehildebrandt.com 
+Request finished with statusCode - 400
+
+[LOG]Wed Nov 06 2019 17:06:13 GMT+0300 (Москва, стандартное время)
+ Sending request to http://www.cpwalkerlaw.com 
+Request finished with statusCode - 400
+
+[LOG]Wed Nov 06 2019 17:06:13 GMT+0300 (Москва, стандартное время)
+ Sending request to http://www.northcolaw.com 
+Request finished with statusCode - 400
+
+[LOG]Wed Nov 06 2019 17:06:13 GMT+0300 (Москва, стандартное время)
+ Sending request to http://www.lwazlaw.com 
+Request finished with statusCode - 400
+
+[LOG]Wed Nov 06 2019 17:06:13 GMT+0300 (Москва, стандартное время)
+ Sending request to http://www.wojolaw.com 
+Request finished with statusCode - 400
+
+[LOG]Wed Nov 06 2019 17:06:13 GMT+0300 (Москва, стандартное время)
+ Sending request to http://www.perry-young.com 
+Request finished with statusCode - 400
+
+[LOG]Wed Nov 06 2019 17:06:13 GMT+0300 (Москва, стандартное время)
+ Sending request to http://www.northwestlaw.com 
+Request finished with statusCode - 400
+
+[LOG]Wed Nov 06 2019 17:06:13 GMT+0300 (Москва, стандартное время)
+ Sending request to http://www.jdlawnyc.com 
+Request finished with statusCode - 400
+
+[LOG]Wed Nov 06 2019 17:06:13 GMT+0300 (Москва, стандартное время)
+ Sending request to http://www.psblawfirm.com 
+Request finished with statusCode - 400
+
+[LOG]Wed Nov 06 2019 17:06:13 GMT+0300 (Москва, стандартное время)
+ Sending request to http://www.rpdlawfirm.com 
+Request finished with statusCode - 400
+
+[LOG]Wed Nov 06 2019 17:06:13 GMT+0300 (Москва, стандартное время)
+ Sending request to http://www.tiddlaw.com 
+Request finished with statusCode - 400
+
+[LOG]Wed Nov 06 2019 17:06:13 GMT+0300 (Москва, стандартное время)
+ Sending request to http://www.lawfirmamb.com 
+Request finished with statusCode - 400
+
+[LOG]Wed Nov 06 2019 17:06:13 GMT+0300 (Москва, стандартное время)
+ Sending request to http://www.eugenefranklin.com 
+Request finished with statusCode - 400
+
+[LOG]Wed Nov 06 2019 17:06:13 GMT+0300 (Москва, стандартное время)
+ Sending request to http://www.lefkovitz.com 
+Request finished with statusCode - 400
+
+[LOG]Wed Nov 06 2019 17:06:13 GMT+0300 (Москва, стандартное время)
+ Sending request to http://www.broderorland.com 
+Request finished with statusCode - 429
+
+[LOG]Wed Nov 06 2019 17:06:13 GMT+0300 (Москва, стандартное время)
+ Sending request to http://www.parishcastleman.net 
+Request finished with statusCode - 400
+
+[LOG]Wed Nov 06 2019 17:06:13 GMT+0300 (Москва, стандартное время)
+ Sending request to http://www.daneshulmanlaw.com 
+Request finished with statusCode - 429
+
+[LOG]Wed Nov 06 2019 17:06:13 GMT+0300 (Москва, стандартное время)
+ Sending request to http://www.williamsbkylaw.com 
+Request finished with statusCode - 429
+
+[LOG]Wed Nov 06 2019 17:06:13 GMT+0300 (Москва, стандартное время)
+ Sending request to http://www.employment-counsel.com 
+Request finished with statusCode - 429
+
+[LOG]Wed Nov 06 2019 17:06:13 GMT+0300 (Москва, стандартное время)
+ Sending request to http://www.mccoyfatula.com 
+Request finished with statusCode - 429
+
+[LOG]Wed Nov 06 2019 17:06:13 GMT+0300 (Москва, стандартное время)
+ Sending request to http://www.queensnewyorklawyers.com 
+Request finished with statusCode - 429
+
+[LOG]Wed Nov 06 2019 17:06:13 GMT+0300 (Москва, стандартное время)
+ Sending request to http://www.pbclaw.com 
+Request finished with statusCode - 429
+
+[LOG]Wed Nov 06 2019 17:06:13 GMT+0300 (Москва, стандартное время)
+ Sending request to http://www.bradshawlawfirm.com 
+Request finished with statusCode - 429
+
+[LOG]Wed Nov 06 2019 17:06:13 GMT+0300 (Москва, стандартное время)
+ Sending request to http://www.deshonpullenlaw.com 
+Request finished with statusCode - 429
+
+[LOG]Wed Nov 06 2019 17:06:13 GMT+0300 (Москва, стандартное время)
+ Sending request to http://www.trostandwolfer.com 
+Request finished with statusCode - 429
+
+[LOG]Wed Nov 06 2019 17:06:13 GMT+0300 (Москва, стандартное время)
+ Sending request to http://www.injurymedmal.comA136 
+Request finished with statusCode - 429
+
+[LOG]Wed Nov 06 2019 17:06:13 GMT+0300 (Москва, стандартное время)
+ Sending request to http://www.shamslawfirm.com 
+Request finished with statusCode - 429
+
+[LOG]Wed Nov 06 2019 17:06:13 GMT+0300 (Москва, стандартное время)
+ Sending request to http://www.weinsteincouture.com 
+Request finished with statusCode - 429
+
+[LOG]Wed Nov 06 2019 17:06:13 GMT+0300 (Москва, стандартное время)
+ Sending request to http://www.olenlaw.com 
+Request finished with statusCode - 429
+
+[LOG]Wed Nov 06 2019 17:06:13 GMT+0300 (Москва, стандартное время)
+ Sending request to http://www.challonerlaw.com 
+Request finished with statusCode - 429
+
+[LOG]Wed Nov 06 2019 17:06:13 GMT+0300 (Москва, стандартное время)
+ Sending request to http://www.duffieldandlovejoy.com 
+Request finished with statusCode - 429
+
+[LOG]Wed Nov 06 2019 17:06:13 GMT+0300 (Москва, стандартное время)
+ Sending request to http://www.hanifinlaw.com 
+Request finished with statusCode - 429
+
+[LOG]Wed Nov 06 2019 17:06:13 GMT+0300 (Москва, стандартное время)
+ Sending request to http://www.waltercraiglaw.com 
+Request finished with statusCode - 429
+
+[LOG]Wed Nov 06 2019 17:06:13 GMT+0300 (Москва, стандартное время)
+ Sending request to http://www.jfhumphreys.com 
+Request finished with statusCode - 429
+
+[LOG]Wed Nov 06 2019 17:06:13 GMT+0300 (Москва, стандартное время)
+ Sending request to http://www.hughesfirmhouston.com 
+Request finished with statusCode - 429
+
+[LOG]Wed Nov 06 2019 17:06:13 GMT+0300 (Москва, стандартное время)
+ Sending request to http://www.nj-bankruptcylaw.com 
+Request finished with statusCode - 429
+
+[LOG]Wed Nov 06 2019 17:06:13 GMT+0300 (Москва, стандартное время)
+ Sending request to http://www.stangelawfirm.com 
+Request finished with statusCode - 429
+
+[LOG]Wed Nov 06 2019 17:06:13 GMT+0300 (Москва, стандартное время)
+ Sending request to http://www.dorabonner.com 
+Request finished with statusCode - 429
+
+[LOG]Wed Nov 06 2019 17:06:13 GMT+0300 (Москва, стандартное время)
+ Sending request to http://www.wvpersonalinjury.com 
+Request finished with statusCode - 429
+
+[LOG]Wed Nov 06 2019 17:06:13 GMT+0300 (Москва, стандартное время)
+ Sending request to http://www.reichandbinstock.com 
+Request finished with statusCode - 429
+
+[LOG]Wed Nov 06 2019 17:06:13 GMT+0300 (Москва, стандартное время)
+ Sending request to http://www.marolalaw.com 
+Request finished with statusCode - 429
+
+[LOG]Wed Nov 06 2019 17:06:13 GMT+0300 (Москва, стандартное время)
+ Sending request to http://www.sanantonio-law.com 
+Request finished with statusCode - 429
+
+[LOG]Wed Nov 06 2019 17:06:13 GMT+0300 (Москва, стандартное время)
+ Sending request to http://www.tatumlawoffice.com 
+Request finished with statusCode - 429
+
+[LOG]Wed Nov 06 2019 17:06:13 GMT+0300 (Москва, стандартное время)
+ Sending request to http://www.keatingfirmlaw.com 
+Request finished with statusCode - 429
+
+[LOG]Wed Nov 06 2019 17:06:13 GMT+0300 (Москва, стандартное время)
+ Sending request to http://www.coseklaw.com 
+Request finished with statusCode - 429
+
+[LOG]Wed Nov 06 2019 17:06:13 GMT+0300 (Москва, стандартное время)
+ Sending request to http://www.robertsonlg.com 
+Request finished with statusCode - 429
+
+[LOG]Wed Nov 06 2019 17:06:13 GMT+0300 (Москва, стандартное время)
+ Sending request to http://www.jenningslawoffice.com 
+Request finished with statusCode - 429
+
+[LOG]Wed Nov 06 2019 17:06:13 GMT+0300 (Москва, стандартное время)
+ Sending request to http://www.dcemploymentattorney.com 
+Request finished with statusCode - 429
+
+[LOG]Wed Nov 06 2019 17:06:13 GMT+0300 (Москва, стандартное время)
+ Sending request to http://www.ksdaviselderlaw.com 
+Request finished with statusCode - 429
+
+[LOG]Wed Nov 06 2019 17:06:13 GMT+0300 (Москва, стандартное время)
+ Sending request to http://www.attorneyfeinstein.com 
+Request finished with statusCode - 429
+
+[LOG]Wed Nov 06 2019 17:06:13 GMT+0300 (Москва, стандартное время)
+ Sending request to http://www.familylawlitigation.com 
+Request finished with statusCode - 429
+
+[LOG]Wed Nov 06 2019 17:06:13 GMT+0300 (Москва, стандартное время)
+ Sending request to http://www.bernicklaw.com 
+Request finished with statusCode - 429
+
+[LOG]Wed Nov 06 2019 17:06:13 GMT+0300 (Москва, стандартное время)
+ Sending request to http://www.georgialawoffices.com 
+Request finished with statusCode - 429
+
+[LOG]Wed Nov 06 2019 17:06:13 GMT+0300 (Москва, стандартное время)
+ Sending request to http://www.winwithzimm.net 
+Request finished with statusCode - 429
+
+[LOG]Wed Nov 06 2019 17:06:13 GMT+0300 (Москва, стандартное время)
+ Sending request to http://www.miriambehmanbrody.com 
+Request finished with statusCode - 429
+
+[LOG]Wed Nov 06 2019 17:06:13 GMT+0300 (Москва, стандартное время)
+ Sending request to http://www.djdlaw.org 
+Request finished with statusCode - 429
+
+[LOG]Wed Nov 06 2019 17:06:13 GMT+0300 (Москва, стандартное время)
+ Sending request to http://www.lauriemullen.com 
+Request finished with statusCode - 429
+
+[LOG]Wed Nov 06 2019 17:06:13 GMT+0300 (Москва, стандартное время)
+ Sending request to http://www.restivolaw.com 
+Request finished with statusCode - 429
+
+[LOG]Wed Nov 06 2019 17:06:13 GMT+0300 (Москва, стандартное время)
+ Sending request to http://www.doremusassociates.com 
+Request finished with statusCode - 429
+
+[LOG]Wed Nov 06 2019 17:06:13 GMT+0300 (Москва, стандартное время)
+ Sending request to http://www.tremontsheldon.com 
+Request finished with statusCode - 429
+
+[LOG]Wed Nov 06 2019 17:06:13 GMT+0300 (Москва, стандартное время)
+ Sending request to http://www.wagmanlaw.com 
+Request finished with statusCode - 429
+
+[LOG]Wed Nov 06 2019 17:06:13 GMT+0300 (Москва, стандартное время)
+ Sending request to http://www.marillaronald.com 
+Request finished with statusCode - 429
+
+[LOG]Wed Nov 06 2019 17:06:13 GMT+0300 (Москва, стандартное время)
+ Sending request to http://www.sokolfoster.com 
+Request finished with statusCode - 429
+
+[LOG]Wed Nov 06 2019 17:06:13 GMT+0300 (Москва, стандартное время)
+ Sending request to http://www.birdlawgroup.com 
+Request finished with statusCode - 400
+
+[LOG]Wed Nov 06 2019 17:06:13 GMT+0300 (Москва, стандартное время)
+ Sending request to http://www.siplfirm.com 
+Request finished with statusCode - 429
+
+[LOG]Wed Nov 06 2019 17:06:13 GMT+0300 (Москва, стандартное время)
+ Sending request to http://www.zellerstrulowitz.com 
+Request finished with statusCode - 400
+
+[LOG]Wed Nov 06 2019 17:06:13 GMT+0300 (Москва, стандартное время)
+ Sending request to http://www.weisbergattorneys.com 
+Request finished with statusCode - 429
+
+[LOG]Wed Nov 06 2019 17:06:13 GMT+0300 (Москва, стандартное время)
+ Sending request to http://www.americasautofraudattorney.com 
+Request finished with statusCode - 429
+
+statusCode:undefined
