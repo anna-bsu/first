@@ -28,11 +28,11 @@ const responses = urls.map(url => {
 
 Promise.all(responses)
     .then( response =>{
-    console.log('statusCode:'  + response.statusCode);
-    fs.appendFileSync(pathToWrite, 'statusCode:'.concat(response.statusCode,"\n"));
+    console.log("Request finished");
+    fs.appendFileSync(pathToWrite, "[LOG]Request finished\n");
     console.log(response.statusCode);
     })
     .catch(error =>{
-        console.log(`Request finished with statusCode: ${e.statusCode}`);
-        fs.appendFileSync(pathToWrite,`Request finished with statusCode: ${e.statusCode}`);
+        console.log("Request finished with error" + error);
+        fs.appendFileSync(pathToWrite,"[LOG]Request finished with error".concat(error.toString()));
     });
