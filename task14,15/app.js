@@ -1,5 +1,4 @@
-
-const process = require('process');
+//const process = require('process');
 const fs = require('fs');
 const path = require('path');
 process.env.NODE_TLS_REJECT_UNAUTHORIZED = '0';
@@ -7,7 +6,7 @@ process.env.NODE_TLS_REJECT_UNAUTHORIZED = '0';
 const fileInputName = process.argv.slice(2)[0].toString();
 const fileOutputName = process.argv.slice(2)[1].toString();
 
-const pathTo Read = path.join(__dirname,fileInputName);
+const pathToRead = path.join(__dirname,fileInputName);
 const pathToWrite = path.join(__dirname,fileOutputName);
 
 const fileIn = fs.readFileSync(pathToRead, 'utf-8');
@@ -27,12 +26,12 @@ const responses = urls.map(url => {
     });
 });
 
-Promise.all(responses).
-then( response =>{
+Promise.all(responses)
+    .then( response =>{
     console.log('statusCode:'  + response.statusCode);
     fs.appendFileSync(pathToWrite, 'statusCode:'.concat(response.statusCode,"\n"));
     console.log(response.statusCode);
-})
+    })
     .catch(error =>{
         console.log(`Request finished with statusCode: ${e.statusCode}`);
         fs.appendFileSync(pathToWrite,`Request finished with statusCode: ${e.statusCode}`);
