@@ -1,0 +1,302 @@
+
+$font-color: white;
+$bg-color-header: rgba(8, 8, 8, 0.80);
+$bg-color-second: rgba(30, 169, 191, 0.87);
+$font-nav: 'Montserrat', sans-serif;
+$font-awesome: 'Noto Sans', sans-serif;
+$bg-color-third: black;
+$font-color-3: rgba(222, 177, 255, 0.72);
+$bg-color-icon: #df3f9e;
+$bg-color-icon1: #6c12df;
+$BlazRobar-color:rgba(30, 169, 191, 0.87);
+$bg-color-seventh: #e4e4e4;
+@media screen and (min-width: 320px) and (max-width: 980px) {
+  .menu li a {
+    color: #fff;
+    text-decoration: none;
+    display: none;
+  }
+  .box {
+    min-width: 100%;
+    display: flex;
+    flex-direction: column;
+   // align-items: center;
+    .fourth{
+      min-width: 100%;
+      display: flex;
+      flex-direction: column;
+     // align-items: center;
+    }
+    /*.fourth .icon {
+      flex: 1;
+      min-height: 100%;
+      position: relative;
+      flex-direction: column;
+      background-color: $bg-color-icon1;
+      color: white;
+      font-size: 100%;
+    }*/
+
+    .fourth .icon i {
+      position: absolute;
+      top: 50%;
+      left: 50%;
+    }
+
+    .fifth {
+      flex: 1;
+     // min-height: 100%;
+    }
+
+   /* img {
+      height: 100%;
+      width: 100%;
+      object-fit: cover;
+    }*/
+
+    .sixth {
+      flex: 1;
+     // min-height: 100%;
+    }
+
+  }
+
+
+
+  .seventh {
+    display:flex;
+    flex-direction: column;
+    flex: 3;
+    background-color: $bg-color-seventh;
+    align-items: center;
+}
+  .seventh-column{
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+  }
+}
+
+
+
+
+
+
+
+
+body {
+  margin: 0;
+}
+
+.box {
+  height: 100%;
+  min-width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.nav {
+  flex: 1;
+  background: $bg-color-header;
+  min-width: 100%;
+}
+
+.menu {
+  list-style-type: none;
+  white-space: nowrap;
+  li {
+    display: inline-flex;
+    flex-direction: column;
+    font-size: 1vw;
+    text-transform: uppercase;
+    vertical-align: middle;
+    margin-top: 1%;
+    margin-right: 5%;
+    margin-bottom: 1%;
+
+    a {
+      color: $font-color;
+      text-decoration: none;
+    }
+  }
+}
+
+.second {
+  min-width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-self: center;
+  //justify-content: center;
+  color: $font-color;
+  background-color: $bg-color-second;
+  flex: 3;
+}
+
+.second .awesome {
+  flex: 2;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  margin-left: 5%;
+  h1 {
+    font-family: $font-awesome;
+  }
+}
+
+.second .link-icon {
+  flex: 1;
+  width: 50%;
+  display: flex;
+  margin-left: 5%;
+ // justify-content: space-between;
+
+ // align-items: center;
+  font-size: 100%;
+  font-family: $font-nav;
+  position:relative;
+
+  a {
+    text-decoration: none;
+    color: $font-color;
+  }
+  i {
+    margin-left: 35%;
+    //justify-content: space-between;;
+  }
+}
+
+.third {
+  flex: 2;
+  min-width: 100%;
+  display: flex;
+  background-color: $bg-color-third;
+
+}
+
+.third .Robin-Hood {
+  display: flex;
+  align-self: center;
+  flex: 1;
+  position: relative;
+  min-width: 70%;
+  font-family: $font-nav;
+  color: $font-color-3;
+  font-size: 3vw;
+  margin-left: 5%;
+}
+
+.third .icon {
+  background-color: $bg-color-icon;
+  flex: 1;
+  width: 50%;
+  position: relative;
+  color: white;
+}
+
+.third .icon i {
+  font-size: 200%;
+  position: absolute;
+  top: 45%;
+  left: 50%;
+}
+
+.icon:after {
+  content: "";
+  display: block;
+  padding-bottom: 80%;
+}
+
+.fourth {
+  flex: 1;
+  min-width: 100%;
+  display: flex;
+  justify-content: center;
+}
+
+.fourth .icon {
+  flex: 1;
+  position: relative;
+  background-color: $bg-color-icon1;
+  color: white;
+}
+
+.fourth .icon i {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+}
+
+.fifth {
+  flex: 1;
+  min-height: 100%;
+}
+
+img {
+  height: 100%;
+  width: 100%;
+  object-fit: cover;
+}
+
+.sixth {
+  flex: 1;
+  min-height: 100%;
+}
+
+.seventh {
+  display:flex;
+  flex-direction: column;
+  flex: 3;
+  background-color: $bg-color-seventh;
+
+  h2{
+    margin-left: 5%;
+    color:$BlazRobar-color;
+  }
+}
+.seventh-column{
+  display:flex;
+  flex-direction: row;
+  align-self: center;
+  justify-content: space-around;
+  .seventh-column-first{
+    width:40%;
+  }
+  .seventh-column-second{
+    width:40%;
+  }
+}
+
+@media screen and (min-width: 320px) and (max-width: 980px) {
+
+  .box {
+    flex-direction: column;
+    .menu li a {
+      display: none;
+    }
+
+    .seventh {
+      flex-direction: column;
+      align-items: center;
+    }
+    .seventh-column {
+      flex-direction: column;
+      align-items: center;
+      font-size: 4vw;
+      .seventh-column-first {
+        text-align: justify;
+        width: 70%;
+      }
+      .seventh-column-second {
+        text-align: justify;
+        width: 70%;
+      }
+    }
+  }
+}
+
+
+
+
+
